@@ -1,2 +1,2 @@
 # Wiki-del-mudo
-La wiki
+Personajes míticos del mundo humano digital.
